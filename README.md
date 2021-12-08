@@ -1,2 +1,2 @@
-# Spin transport indisordered WTe2
+# Spin transport in disordered WTe2
 WIP
